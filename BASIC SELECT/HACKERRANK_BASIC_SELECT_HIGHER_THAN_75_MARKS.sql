@@ -12,7 +12,6 @@ Query the Name of any student in STUDENTS who scored higher than 75 Marks. Order
 /*
 Enter your query here.
 */
-
 SELECT Name
 FROM STUDENTS
 WHERE Marks > 75
