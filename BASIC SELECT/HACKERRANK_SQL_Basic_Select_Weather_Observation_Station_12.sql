@@ -6,6 +6,7 @@
 -- Difficulty: Easy
 -- Max Score: 15
 -- Author: AvmnuSng
+
 /*
 Enter your query here.
 */
